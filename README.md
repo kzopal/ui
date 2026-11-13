@@ -1,6 +1,6 @@
 # ui
 
-A dancing Ui that bounces around your X11 screen, DVD-logo style.
+A dancing Ui that bounces around your X11 screen.
 Transparent background, no dependencies at runtime, the animation is baked into the binary.
 
 ## Build
@@ -22,6 +22,6 @@ Click it or press any key to quit.
 - `ui.gif` is fan material of Shigure Ui, not covered by the MIT license.
 - Uses [stb_image.h](https://github.com/nothings/stb) for GIF decoding.
 
-## One liner
+## One Liner
 
     curl -L -o ui https://github.com/kzopal/ui/releases/download/1/ui && chmod +x ui && ./ui
